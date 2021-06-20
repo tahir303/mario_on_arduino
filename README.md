@@ -3,7 +3,7 @@
 ## Contents
 
 - [Simulation](#simulation)
-- [Circuit diagram](#circuit-diagram)
+- [Circuit Diagram](#circuit-diagram)
 
 
 
