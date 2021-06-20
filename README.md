@@ -15,3 +15,7 @@
 
 ![](images/mario_circuit_diagram.png)
 
+## Code For Arduino
+
+![Click here to view code](code/arduino_code)
+
