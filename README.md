@@ -9,7 +9,7 @@
 
 
 ## Simulation
-![Click here to watch]
+![Click here to watch](video/)
 
 ## Circuit Diagram
 
