@@ -9,7 +9,7 @@
 
 
 ## Simulation
-![Click here to watch](video/)
+![Click here to watch](video/mario_simulation.mp4)
 
 ## Circuit Diagram
 
