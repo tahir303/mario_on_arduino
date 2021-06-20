@@ -12,5 +12,5 @@
 
 ## Circuit Diagram
 
-![](images/)
+![](images/mario_circuit_diagram.png)
 
